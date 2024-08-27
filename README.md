@@ -28,7 +28,7 @@ A simple Python program to manage and organize calendar events for personal use.
     python main.py
     ```
 
-3. **Follow the on-screen instructions** to add, view, or delete meetings.
+3. **Follow the on-screen instructions** to add, view, or delete events.
 
 ## Usage
 
